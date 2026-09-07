@@ -23,7 +23,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and SciPy.
 3. Update `DATA_PATH` if necessary.
 4. Select **Runtime → Run all**.
 
-The dataset is not included in this repository.
+The dataset is not included in this repository. You can find it on Kaggle.
 
 ## Author
 
